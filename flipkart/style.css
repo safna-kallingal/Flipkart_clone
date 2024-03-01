@@ -1,0 +1,84 @@
+#cf1{
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+}
+#img1{
+    margin-top: 13px;
+    height: 66px;
+}
+#carouselExampleControls{
+    background-color: rgb(255, 255, 255);
+    height: 270px;
+    width: 100%;
+}
+#cr{
+    
+    height: 270px;
+    width: 100%;
+}
+#cf{
+    float: left;
+    height: 324px ;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    padding-top: 80px;
+    
+}
+#btn{
+    height: 44px;
+    width: 104px;
+    font-size: 21px;
+    margin-top: 43px;
+}
+#cf2{
+    float: left;
+    height: 324px;
+    width: 1269px;
+    background-color: rgb(255, 255, 255);
+}
+#card{
+    border: none;
+    height: 324px;
+}
+#cardimg{
+    margin-left: 75px;
+    margin-top: 30px;
+    height: 190px;
+    width: 150px;
+}
+#poco{
+    height: 324px ;
+    width: 250px;
+}
+#footer{
+
+    height: 310px;
+    
+}
+#p1{
+    font-size: 16px;
+}
+h6{
+    padding-top: 50px;
+}
+
+#navbarDropdown{
+    color: white;
+   
+
+    
+}  
+#row{
+    /* height: 100%; */
+    background-color: rgb(54, 54, 70);
+    color: white;
+}
+/* #cfluid{
+    height: 200px;
+    color: rgb(250, 232, 43);
+} */
+i{
+    color: rgb(229, 250, 38);
+}
